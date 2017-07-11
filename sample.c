@@ -11,39 +11,5 @@ printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
 printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
 printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
 printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-
-  
- printf("hello world");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-
-  
-  printf("hello world");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-
-  
-  printf("hello world");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-printf("hello worldjkh dsflk;fhlkgjdhklghfdkljgh dfjhgldsj ghdsfh glkdgkljdf ");
-
-return 0;
+  return 0;
 }
